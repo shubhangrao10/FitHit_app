@@ -5,4 +5,3 @@
 ![Befit5](https://github.com/amithincode/BeFit-Fitnessapp/assets/154878153/450ac71f-5c3c-4000-afd7-ad5dbfe6678b)
 ![Befit3](https://github.com/amithincode/BeFit-Fitnessapp/assets/154878153/82bdb434-a77a-4e59-b98e-45ba8bce0542)
 ![image](https://github.com/amithincode/BeFit-Fitnessapp/assets/154878153/6564c3f0-4145-4127-8be4-a40b997f1475)
-![befit6](https://github.com/amithincode/BeFit-Fitnessapp/assets/154878153/de8e3c76-5105-46c3-8da6-6488ccc52b94)
